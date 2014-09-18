@@ -1,0 +1,12 @@
+add little brown fox
+adf jumped over the moon
+add jumped over the moon
+display
+delete 1
+deleete 2
+clear
+display
+add jumped over the moon
+add little brown fox
+display
+exit

@@ -1,0 +1,15 @@
+Welcome to TextBuddy. wordfile.txt is ready for use.
+command:added to wordfile.txt "little brown fox"
+command:ERROR: Invalid command
+command:added to wordfile.txt "jumped over the moon"
+command:1.little brown fox
+2.jumped over the moon
+command:deleted from wordfile.txt "little brown fox"
+command:ERROR: Invalid command
+command:all content deleted from wordfile.txt
+command:wordfile.txt is empty
+command:added to wordfile.txt "little brown fox"
+command:added to wordfile.txt "jumped over the moon"
+command:1.little brown fox
+2.jumped over the moon
+command:
